@@ -1,4 +1,4 @@
-package io.fabric8;
+package io.fabric8.demo;
 
 import io.fabric8.kubernetes.api.model.Namespace;
 import io.fabric8.kubernetes.api.model.NamespaceList;

@@ -1,4 +1,4 @@
-package io.fabric8;
+package io.fabric8.demo;
 
 import java.io.FileInputStream;
 

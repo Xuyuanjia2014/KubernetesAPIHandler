@@ -1,4 +1,4 @@
-package io.fabric8;
+package io.fabric8.demo;
 
 import io.fabric8.kubernetes.api.model.apiextensions.CustomResourceDefinition;
 import io.fabric8.kubernetes.client.DefaultKubernetesClient;

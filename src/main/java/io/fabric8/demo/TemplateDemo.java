@@ -1,4 +1,4 @@
-package io.fabric8;
+package io.fabric8.demo;
 
 import io.fabric8.kubernetes.api.model.KubernetesList;
 import io.fabric8.kubernetes.api.model.Pod;

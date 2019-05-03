@@ -1,4 +1,4 @@
-package io.fabric8;
+package io.fabric8.demo;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
