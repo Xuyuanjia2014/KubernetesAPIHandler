@@ -10,3 +10,7 @@ And it will test the complexity of using fabric8 and show the future trend of AP
 4. 查阅阿里云、华为云、AWS等类似接口的特点，总结差异性；
 5. 探索通过反射方法和配置文件进行参数生成的可行性，在io.fabric8中验证可行性；
 6. 探索混合云环境下服务适配（API相似性，文档代码质量，开销等）需要解决的核心问题。
+
+全国党建系统应用的生命周期组织维护
+
+保障跨地区行政服务的差异化、稳定性需求
